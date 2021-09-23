@@ -30,15 +30,6 @@ https://docs.google.com/presentation/d/1A4JuI38HgZvhpGceknb24wX3wUm8YyafPS8XMum4
 **9. Content**
 https://docs.google.com/presentation/d/1nQBHO7qpQdQvmXHpf18EPoTQH-vdlxDFVZpYfE-v9wk/edit?usp=sharing
 
-**10. Utilities (1)**
-https://docs.google.com/presentation/d/14sC2kLgiDw-mSP0zdLPnnRiwi1i9Pm1DGvXezLP3prM/edit?usp=sharing
-
-**11. Utilities (2)**
-https://docs.google.com/presentation/d/1MJwJvKho2fzJY1ioLHU3-di29_nP9oe1iUFYJY_HCTk/edit?usp=sharing
-  
-**12. Helpers**
-https://docs.google.com/presentation/d/1sgVu7ISHBJYjvo1Lz9r92--6DALWmxRz4MROiit3Fs4/edit?usp=sharing
-  
 **김정욱**
 https://github.com/guhwangjm  
 https://guhwangjm.github.io/bootstrap/hello.html
