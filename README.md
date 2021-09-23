@@ -14,7 +14,27 @@ https://docs.google.com/presentation/d/1Yr1P2bpwfgmF9hSyMdmFfoQdV3RH1OcypEomafZI
 
 **5. VSCode 단축키**  
 https://docs.google.com/presentation/d/1C2ip0FNY-n1j-Ikokop3mOunS9J5h8rdPB1obP2KSC8/edit?usp=sharing
-  
+
+**6. 부트스트랩 레이아웃**  
+https://docs.google.com/presentation/d/1C2ip0FNY-n1j-Ikokop3mOunS9J5h8rdPB1obP2KSC8/edit?usp=sharing
+
+**6-1. Grid Quiz**
+https://docs.google.com/presentation/d/1DA0kScA1N70yoB0a5m9TWlE8lZSq5MGEqfYoLi96AYk/edit?usp=sharing
+
+**7. Navs**
+https://docs.google.com/presentation/d/1A4JuI38HgZvhpGceknb24wX3wUm8YyafPS8XMum4Y-A/edit?usp=sharing
+
+**8. NavsTarget**
+(생략)
+
+**9. Content**
+https://docs.google.com/presentation/d/1nQBHO7qpQdQvmXHpf18EPoTQH-vdlxDFVZpYfE-v9wk/edit?usp=sharing
+
+**10. Utilities(1)**
+https://docs.google.com/presentation/d/14sC2kLgiDw-mSP0zdLPnnRiwi1i9Pm1DGvXezLP3prM/edit?usp=sharing
+
+**10. Utilities(2)**
+https://docs.google.com/presentation/d/1MJwJvKho2fzJY1ioLHU3-di29_nP9oe1iUFYJY_HCTk/edit?usp=sharing
   
 **김정욱**
 https://github.com/guhwangjm  
