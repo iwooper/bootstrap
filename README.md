@@ -16,7 +16,7 @@ https://docs.google.com/presentation/d/1Yr1P2bpwfgmF9hSyMdmFfoQdV3RH1OcypEomafZI
 https://docs.google.com/presentation/d/1C2ip0FNY-n1j-Ikokop3mOunS9J5h8rdPB1obP2KSC8/edit?usp=sharing
 
 **6. 부트스트랩 레이아웃**  
-https://docs.google.com/presentation/d/1C2ip0FNY-n1j-Ikokop3mOunS9J5h8rdPB1obP2KSC8/edit?usp=sharing
+https://docs.google.com/presentation/d/1ZZDTWEZHtDE9TQGitHIVjYy_BtUV2DTpzRTaoPg8q30/edit?usp=sharing
 
 **6-1. Grid Quiz**
 https://docs.google.com/presentation/d/1DA0kScA1N70yoB0a5m9TWlE8lZSq5MGEqfYoLi96AYk/edit?usp=sharing
