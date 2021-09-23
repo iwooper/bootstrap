@@ -19,34 +19,42 @@ https://docs.google.com/presentation/d/1C2ip0FNY-n1j-Ikokop3mOunS9J5h8rdPB1obP2K
 **김정욱**
 https://github.com/guhwangjm  
 https://guhwangjm.github.io/bootstrap/hello.html
+https://guhwangjm.github.io/bootstrap/index.html
 
 **장민정**
 https://github.com/minjomi  
 https://minjomi.github.io/bootstrap/hello.html
+https://guhwangjm.github.io/bootstrap/index.html
 
 **홍형진**
 https://github.com/honghyungjin  
 https://honghyungjin.github.io/bootstrap/hello.html
+https://honghyungjin.github.io/bootstrap/index.html
 
 **백은진**
 https://github.com/jinyjimy  
 https://jinyjimy.github.io/bootstrap/hello.html
+https://jinyjimy.github.io/bootstrap/index.html
 
 **강진숙**
 https://github.com/drawdrawdream  
 https://drawdrawdream.github.io/bootstrap/hello.html
+https://drawdrawdream.github.io/bootstrap/index.html
 
 **김예지**
 https://github.com/yejiyej  
 https://yejiyej.github.io/bootstrap/hello.html
+https://yejiyej.github.io/bootstrap/index.html
 
 **박성진**
 https://github.com/pilesofpaper  
 https://pilesofpaper.github.io/bootstrap/hello.html
+https://pilesofpaper.github.io/bootstrap/index.html
 
 **이서원**
 https://github.com/irokousui  
 https://irokousui.github.io/bootstrap/hello.html
+https://irokousui.github.io/bootstrap/index.html
 
 **이선영**
 
@@ -55,3 +63,4 @@ https://irokousui.github.io/bootstrap/hello.html
 **정성원**
 https://github.com/iwooper  
 https://iwooper.github.io/bootstrap/hello.html
+https://iwooper.github.io/bootstrap/index.html
