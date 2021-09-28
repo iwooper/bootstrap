@@ -39,7 +39,9 @@
     },
     "example": {
         "scope": "html",
-        "prefix": ["example"],
+        "prefix": [
+            "example"
+        ],
         "body": [
             "<h1 class=\"title\">$1</h1>",
             "<div class=\"example\">",
@@ -49,7 +51,9 @@
     },
     "example no head": {
         "scope": "html",
-        "prefix": ["example no head"],
+        "prefix": [
+            "example no head"
+        ],
         "body": [
             "<div class=\"example\">",
             "\t$2",
@@ -58,12 +62,60 @@
     },
     "card image": {
         "scope": "html",
-        "prefix": ["card image"],
+        "prefix": [
+            "card image"
+        ],
         "body": [
             "<svg class=\"bd-placeholder-img card-img-top\" width=\"100%\" height=\"180\" xmlns=\"http://www.w3.org/2000/svg\"",
             "\trole=\"img\" aria-label=\"Placeholder: Image cap\" preserveAspectRatio=\"xMidYMid slice\" focusable=\"false\">",
             "\t<title>Placeholder</title>",
             "\t<rect width=\"100%\" height=\"100%\" fill=\"#868e96\"></rect>",
+            "\t<text x=\"50%\" y=\"50%\" fill=\"#dee2e6\" dy=\".3em\">Image cap</text>",
+            "</svg>",
+        ]
+    },
+    "carousel image 1": {
+        "scope": "html",
+        "prefix": [
+            "carousel image 1"
+        ],
+        "body": [
+            "<svg class=\"bd-placeholder-img bd-placeholder-img-lg d-block w-100\" width=\"800\" height=\"400\"",
+            "\txmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Placeholder: First slide\"",
+            "\tpreserveAspectRatio=\"xMidYMid slice\" focusable=\"false\">",
+            "\t<title>Placeholder</title>",
+            "\t<rect width=\"100%\" height=\"100%\" fill=\"#777\"></rect><text x=\"50%\" y=\"50%\" fill=\"#555\"",
+            "\t\tdy=\".3em\">First slide</text>",
+            "</svg>",
+        ]
+    },
+    "carousel image 2": {
+        "scope": "html",
+        "prefix": [
+            "carousel image 2"
+        ],
+        "body": [
+            "<svg class=\"bd-placeholder-img bd-placeholder-img-lg d-block w-100\" width=\"800\" height=\"400\"",
+            "\txmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Placeholder: Second slide\"",
+            "\tpreserveAspectRatio=\"xMidYMid slice\" focusable=\"false\">",
+            "\t<title>Placeholder</title>",
+            "\t<rect width=\"100%\" height=\"100%\" fill=\"#666\"></rect><text x=\"50%\" y=\"50%\" fill=\"#444\"",
+            "\t\tdy=\".3em\">Second slide</text>",
+            "</svg>",
+        ]
+    },
+    "carousel image 3": {
+        "scope": "html",
+        "prefix": [
+            "carousel image 3"
+        ],
+        "body": [
+            "<svg class=\"bd-placeholder-img bd-placeholder-img-lg d-block w-100\" width=\"800\" height=\"400\"",
+            "\txmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Placeholder: Third slide\"",
+            "\tpreserveAspectRatio=\"xMidYMid slice\" focusable=\"false\">",
+            "\t<title>Placeholder</title>",
+            "\t<rect width=\"100%\" height=\"100%\" fill=\"#555\"></rect><text x=\"50%\" y=\"50%\" fill=\"#333\"",
+            "\t\tdy=\".3em\">Third slide</text>",
             "</svg>",
         ]
     }
