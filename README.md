@@ -27,11 +27,11 @@ https://docs.google.com/presentation/d/1DA0kScA1N70yoB0a5m9TWlE8lZSq5MGEqfYoLi96
 **7. Navs**
 https://docs.google.com/presentation/d/1A4JuI38HgZvhpGceknb24wX3wUm8YyafPS8XMum4Y-A/edit?usp=sharing
 
-**8. NavsTarget**
-(생략)
-
 **9. Content**
 https://docs.google.com/presentation/d/1nQBHO7qpQdQvmXHpf18EPoTQH-vdlxDFVZpYfE-v9wk/edit?usp=sharing
+
+**13. Icons**
+https://docs.google.com/presentation/d/19sT1sHit7Uj0iD2j48mw_znX6KI6dztzt9UxNlA4m44/edit?usp=sharing
 
 **김정욱**
 https://github.com/guhwangjm  
